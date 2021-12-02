@@ -1,0 +1,17 @@
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.exe
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.deps.json
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.runtimeconfig.json
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.runtimeconfig.dev.json
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.dll
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.pdb
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.AssemblyReference.cache
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.Employees.resources
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.Login.resources
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.GenerateResource.cache
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.AssemblyInfoInputs.cache
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.AssemblyInfo.cs
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.CoreCompileInputs.cache
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.dll
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.pdb
+D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.genruntimeconfig.cache
