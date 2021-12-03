@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHSqnBgX0eRsHdzf4kdNk5SEl08VLIN/FMzdEUmP/qvaQaRyojBJYJWd3qg+NzgOeIVb+HNTF1Oi6fyDSKrAfA==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\Madonal_ProjectFiles\\DesktopApp\\Madonal\\MadonalPBD\\MadonalPBD.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}
