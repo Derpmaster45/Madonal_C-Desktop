@@ -15,3 +15,24 @@ D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcorea
 D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.dll
 D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.pdb
 D:\New folder\Madonal_ProjectFiles\DesktopApp\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.genruntimeconfig.cache
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.exe
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.deps.json
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.runtimeconfig.json
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.runtimeconfig.dev.json
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.dll
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\bin\Debug\netcoreapp3.1\Madonal.pdb
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.AssemblyReference.cache
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.Employees.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.frmEmployees.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.frmLocation.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.frmLogin.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.FrmProducts.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.Login.resources
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.GenerateResource.cache
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.AssemblyInfoInputs.cache
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.AssemblyInfo.cs
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.csproj.CoreCompileInputs.cache
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.dll
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.pdb
+D:\ASP\FutureInvestment\Madonal_C-Desktop\Madonal\Madonal\obj\Debug\netcoreapp3.1\Madonal.genruntimeconfig.cache

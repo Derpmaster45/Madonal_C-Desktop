@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+Jm10KJY8Rdhxq6NNM4VS0eKBxAhRWgvmdTz7ftCOMsbrOg2H/3PoVFwD9YGuL7VVuDp64udGmaXA6haUQiAXw==",
+  "dgSpecHash": "mBtbLrazLgjHBAeuPMq+GvkG+d6egLsbcGnKo02HIyUCSV/cIyPJb2iGW9sQW4BwaQe9ZNsF55FqZ/4UXfSWUw==",
   "success": true,
-  "projectFilePath": "D:\\New folder\\Madonal_ProjectFiles\\DesktopApp\\Madonal\\Madonal\\Madonal.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ASP\\FutureInvestment\\Madonal_C-Desktop\\Madonal\\Madonal\\Madonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

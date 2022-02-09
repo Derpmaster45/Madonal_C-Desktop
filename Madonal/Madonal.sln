@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31727.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Madonal", "Madonal\Madonal.csproj", "{6323F15A-97D0-49CE-8FDE-B2909665CAB2}"
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "MadonalPBD", "MadonalPBD\MadonalPBD.wapproj", "{021B3AA4-C4E3-4CEB-AAFF-3ACBF6FAAA72}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MadonaldSetup", "MadonaldSetup\MadonaldSetup.vdproj", "{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,16 +71,6 @@ Global
 		{021B3AA4-C4E3-4CEB-AAFF-3ACBF6FAAA72}.Release|x86.ActiveCfg = Release|x86
 		{021B3AA4-C4E3-4CEB-AAFF-3ACBF6FAAA72}.Release|x86.Build.0 = Release|x86
 		{021B3AA4-C4E3-4CEB-AAFF-3ACBF6FAAA72}.Release|x86.Deploy.0 = Release|x86
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Debug|Any CPU.ActiveCfg = Debug
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Debug|ARM.ActiveCfg = Debug
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Debug|ARM64.ActiveCfg = Debug
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Debug|x64.ActiveCfg = Debug
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Debug|x86.ActiveCfg = Debug
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Release|Any CPU.ActiveCfg = Release
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Release|ARM.ActiveCfg = Release
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Release|ARM64.ActiveCfg = Release
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Release|x64.ActiveCfg = Release
-		{A0EE1565-C0DF-416B-86FE-B6F49AEB6151}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
